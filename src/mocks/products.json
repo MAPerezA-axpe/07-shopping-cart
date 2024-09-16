@@ -1,0 +1,94 @@
+{
+   "products": [
+     {
+       "id":1,
+       "title":"Key Holder",
+       "description":"Attractive Design, Metallic material, Four key hooks, Reliable & Durable, Premium Quality",
+       "price":30,
+       "discountPercentage":2.92,
+       "rating":4.92,
+       "stock":54,
+       "brand":"Golden",
+       "category":"home-decoration",
+       "thumbnail":"https://via.placeholder.com/150?text=Key+Holder",
+       "images":[
+         "https://via.placeholder.com/300?text=Key+Holder+1",
+         "https://via.placeholder.com/300?text=Key+Holder+2",
+         "https://via.placeholder.com/300?text=Key+Holder+3",
+         "https://via.placeholder.com/300?text=Key+Holder+4"
+       ]
+     },
+     {
+       "id":2,
+       "title":"MacBook Pro",
+       "description":"MacBook Pro 2021 with mini-LED display may launch between September, November",
+       "price":1749,
+       "discountPercentage":11.02,
+       "rating":4.57,
+       "stock":83,
+       "brand":"Apple",
+       "category":"laptops",
+       "thumbnail":"https://via.placeholder.com/150?text=MacBook+Pro",
+       "images":[
+         "https://via.placeholder.com/300?text=MacBook+Pro+1",
+         "https://via.placeholder.com/300?text=MacBook+Pro+2",
+         "https://via.placeholder.com/300?text=MacBook+Pro+3",
+         "https://via.placeholder.com/300?text=MacBook+Pro+4"
+       ]
+     },
+     {
+       "id":3,
+       "title":"Samsung Galaxy S21",
+       "description":"Latest model with the best display, camera, and battery life",
+       "price":999,
+       "discountPercentage":10.5,
+       "rating":4.8,
+       "stock":47,
+       "brand":"Samsung",
+       "category":"smartphones",
+       "thumbnail":"https://via.placeholder.com/150?text=Galaxy+S21",
+       "images":[
+         "https://via.placeholder.com/300?text=Galaxy+S21+1",
+         "https://via.placeholder.com/300?text=Galaxy+S21+2",
+         "https://via.placeholder.com/300?text=Galaxy+S21+3",
+         "https://via.placeholder.com/300?text=Galaxy+S21+4"
+       ]
+     },
+     {
+       "id":4,
+       "title":"Sony WH-1000XM4",
+       "description":"Noise-cancelling headphones with superior sound quality",
+       "price":349,
+       "discountPercentage":15,
+       "rating":4.7,
+       "stock":72,
+       "brand":"Sony",
+       "category":"electronics",
+       "thumbnail":"https://via.placeholder.com/150?text=Sony+WH-1000XM4",
+       "images":[
+         "https://via.placeholder.com/300?text=Sony+WH-1000XM4+1",
+         "https://via.placeholder.com/300?text=Sony+WH-1000XM4+2",
+         "https://via.placeholder.com/300?text=Sony+WH-1000XM4+3",
+         "https://via.placeholder.com/300?text=Sony+WH-1000XM4+4"
+       ]
+     },
+     {
+       "id":5,
+       "title":"Nike Air Max 270",
+       "description":"Comfortable and stylish running shoes with great cushioning",
+       "price":150,
+       "discountPercentage":20,
+       "rating":4.5,
+       "stock":120,
+       "brand":"Nike",
+       "category":"footwear",
+       "thumbnail":"https://via.placeholder.com/150?text=Nike+Air+Max+270",
+       "images":[
+         "https://via.placeholder.com/300?text=Nike+Air+Max+270+1",
+         "https://via.placeholder.com/300?text=Nike+Air+Max+270+2",
+         "https://via.placeholder.com/300?text=Nike+Air+Max+270+3",
+         "https://via.placeholder.com/300?text=Nike+Air+Max+270+4"
+       ]
+     }
+   ]
+ }
